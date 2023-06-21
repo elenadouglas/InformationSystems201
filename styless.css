@@ -1,0 +1,57 @@
+.boldme{
+    font-weight: bold;
+}
+li{
+    font-style: normal;
+    font-weight: normal;
+}
+.italicizeme{
+    font-style: italic;
+}
+.tableaubackground{
+    background-image: url('https://img.freepik.com/premium-photo/centre-top-lighting-smooth-baby-blue-display-background_148157-149.jpg');
+    background-size: cover;
+}
+.kooikerhondjefont{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.kooikerhondjefont2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+.kooikerhondjefont3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+a:hover{
+    color: rgb(14, 26, 131);
+    font-size: 25px;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 150px;
+    background-color: rgba(220, 243, 247, 0.478);
+}
+.mainbody{
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    background-color:  rgba(220, 243, 247, 0.478);
+}
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    position: fixed;
+    text-align: center;
+    background-color:  rgba(220, 243, 247, 0.478);
+}
